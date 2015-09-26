@@ -1,0 +1,86 @@
+for(int i=0;i<4;i++)
+    {
+        for(int j=0;j<4;j++)
+        {
+            for(int k=0;k<4;k++)
+            {
+                for(int m=0;m<4;m++)
+                {
+                    for(int n=0;n<4;n++){
+                    
+                        Snake* ghost = new Snake;
+                        ghost->operator=(s);
+                        int tmp;
+                //
+                        //tmp=calDistance(ghost,tarX,tarY,maxX,maxY);
+                
+                        //i
+                        ghost->ghostMove(258+i);
+                        if(checkSnake(ghost,maxX,maxY)==false)
+                            break;
+                        else if(ghost->CurX()==tarX && ghost->CurY()==tarY){
+                            first=i;
+                            stop=true;
+                        }
+                        //j
+                        ghost->ghostMove(258+j);
+                        if(checkSnake(ghost,maxX,maxY)==false)
+                            break;
+                        else if(ghost->CurX()==tarX && ghost->CurY()==tarY){
+                            first=i;
+                            second=j;
+                            stop=true;
+                        }
+                        //k
+                        ghost->ghostMove(258+k);
+                        if(checkSnake(ghost,maxX,maxY)==false)
+                            break;
+                        else if(ghost->CurX()==tarX && ghost->CurY()==tarY){
+                            first=i;
+                            second=j;
+                            third =k;
+                            stop=true;
+                        }
+                        //m
+                        ghost->ghostMove(258+m);
+                        if(checkSnake(ghost,maxX,maxY)==false)
+                            break;
+                        else if(ghost->CurX()==tarX && ghost->CurY()==tarY){
+                            first=i;
+                            second=j;
+                            third =k;
+                            forth=m;
+                            stop=true;
+                        }
+                        //n
+                        ghost->ghostMove(258+n);
+                        if(checkSnake(ghost,maxX,maxY)==false)
+                            break;
+                        else if(ghost->CurX()==tarX && ghost->CurY()==tarY){
+                            first=i;
+                            second=j;
+                            third =k;
+                            forth=m;
+                            fifth=n;
+                            stop=true;
+                        }
+                        
+                        tmp=calDistance(ghost,tarX,tarY,maxX,maxY);
+                        if( (tmp<min || min==-1)  && stop == false)
+                        {
+                            //cout<<endl<<i<<endl<<j;
+                            //cout<<endl;
+                            min=tmp;
+                            //cout<<endl<<min;
+                            first=i;
+                            second=j;
+                            third=k;
+                            forth=m;
+                            fifth=n;
+                        }
+                        
+                    }
+                }
+            }
+        }
+    }

@@ -1,0 +1,470 @@
+head and tail is same
+The result of the initial Mode:
+find= 0
+before is 14
+after is 11
+decision is 122
+the between head and tail 0
+Success
+========================================
+head and tail is same
+========================================
+head and tail is same
+========================================
+head and tail is same
+The result of the initial Mode:
+find= 0
+before is 11
+after is 8
+decision is 222
+the between head and tail 0
+Success
+========================================
+head and tail is same
+========================================
+head and tail is same
+========================================
+head and tail is same
+The result of the initial Mode:
+find= 0
+before is 8
+after is 5
+decision is 222
+the between head and tail 0
+Success
+========================================
+head and tail is same
+========================================
+head and tail is same
+========================================
+head and tail is same
+The result of the initial Mode:
+find= 0
+before is 5
+after is 2
+decision is 222
+the between head and tail 0
+Success
+========================================
+head and tail is same
+========================================
+head and tail is same
+========================================
+head and tail is same
+The result of the initial Mode:
+find= 1
+before is 2
+after is 1
+decision is 22-1
+the between head and tail 0
+Success
+========================================
+head and tail is same
+========================================
+The result of the initial Mode:
+find= 0
+before is 10
+after is 7
+decision is 111
+the between head and tail 1
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 7
+after is 4
+decision is 112
+the between head and tail 1
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 4
+after is 1
+decision is 222
+the between head and tail 1
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 1
+before is 1
+after is 2
+decision is 021
+the between head and tail 1
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 17
+after is 14
+decision is 300
+the between head and tail 2
+Success
+========================================
+The result of the initial Mode:
+find= 0
+before is 16
+after is 13
+decision is 000
+the between head and tail 2
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 13
+after is 10
+decision is 000
+the between head and tail 4
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 10
+after is 7
+decision is 333
+the between head and tail 4
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 7
+after is 4
+decision is 333
+the between head and tail 4
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 4
+after is 1
+decision is 333
+the between head and tail 4
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 1
+before is 1
+after is 2
+decision is 130
+the between head and tail 4
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 10
+after is 7
+decision is 311
+the between head and tail 1
+Success
+========================================
+The result of the initial Mode:
+find= 0
+before is 9
+after is 6
+decision is 112
+the between head and tail 5
+Success
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 7
+after is 4
+decision is 200
+the between head and tail 3
+Success
+========================================
+The result of the initial Mode:
+find= 0
+before is 6
+after is 3
+decision is 002
+the between head and tail 3
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 1
+before is 3
+after is 2
+decision is 222
+the between head and tail 3
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 8
+after is 5
+decision is 111
+the between head and tail 6
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 5
+after is 2
+decision is 111
+the between head and tail 4
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 1
+before is 2
+after is 1
+decision is 12-1
+the between head and tail 6
+Success
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 9
+after is 6
+decision is 000
+the between head and tail 5
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 6
+after is 3
+decision is 000
+the between head and tail 3
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 1
+before is 3
+after is 2
+decision is 022
+the between head and tail 7
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 6
+after is 3
+decision is 222
+the between head and tail 6
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 1
+before is 3
+after is 2
+decision is 222
+the between head and tail 6
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 6
+after is 3
+decision is 111
+the between head and tail 9
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 1
+before is 3
+after is 100000
+decision is 111
+the between head and tail 7
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 21
+after is 18
+decision is 300
+the between head and tail 8
+Success
+========================================
+The result of the initial Mode:
+find= 0
+before is 20
+after is 17
+decision is 000
+the between head and tail 6
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 17
+after is 14
+decision is 003
+the between head and tail 2
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 14
+after is 11
+decision is 333
+the between head and tail 8
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 11
+after is 8
+decision is 333
+the between head and tail 8
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 8
+after is 5
+decision is 333
+the between head and tail 8
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 5
+after is 2
+decision is 333
+the between head and tail 10
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 1
+before is 2
+after is 1
+decision is 33-1
+the between head and tail 10
+Success
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 18
+after is 15
+decision is 111
+the between head and tail 11
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 15
+after is 12
+decision is 111
+the between head and tail 9
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 12
+after is 9
+decision is 222
+the between head and tail 9
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 9
+after is 6
+decision is 222
+the between head and tail 9
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 6
+after is 3
+decision is 222
+the between head and tail 9
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 1
+before is 3
+after is 2
+decision is 222
+the between head and tail 11
+Success
+========================================
+========================================
+========================================
+The result of the initial Mode:
+find= 0
+before is 16
+after is 13
+decision is 033
+the between head and tail 12
+Success
+========================================
+The result of the initial Mode:
+find= 0
+before is 15
+after is 12
+decision is 333
+the between head and tail 10
+Success
+========================================
+========================================
+========================================
